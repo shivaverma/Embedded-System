@@ -1,3 +1,15 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 4 - Could use more details.
+# Fritzing   0
+# Code       5  
+# Table      0 - See assignment
+
+Grade:  14/25
+
+================================================
+
 To 
 	Mark A. Yoder 
 
