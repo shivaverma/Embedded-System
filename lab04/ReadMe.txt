@@ -3,7 +3,7 @@ To
 
 
 From 
-	Mani Kumar - B12012
+	Shiva Verma Soni - B13228
 
 
 Date 
@@ -15,7 +15,7 @@ Subject
 
 
 Partner Name
-	Anand K. Parmar - B12021
+	Vinod Kumar - B13141
 
 
 
