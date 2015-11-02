@@ -1,0 +1,4 @@
+1)The current stable distribution of Debian is version 8, codenamed jessie
+The current testing distribution is stretch.
+The unstable distribution is called sid
+2)952 packages are available to install
